@@ -1,4 +1,4 @@
-### Akshay Kumar
+## Akshay Kumar
 ![Software Engineer](https://img.shields.io/badge/Sofware%20-Engineer-green) ![Followers](https://img.shields.io/github/followers/akthecoders?style=social)
 
 I have an experience of 3+ years in the tech industry and have good knowledge of various tools and technologies.
