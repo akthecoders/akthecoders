@@ -5,7 +5,7 @@ I have an experience of 3+ years in the tech industry and have good knowledge of
 I like to solve coding questions on leetcode, gfg and other various platforms.
 I am also curious to learn and explore new tech.
 
-Skills: React JS  /JS /Node Js /Core Java /Python /OOPS /Solid Principles /Design Patterns /HTML / CSS
+Skills: Data Structures/ Design Patterns/ Solid Principles/ React JS  /JS /Node Js /Core Java /OOPS /HTML / CSS
 
 - 🔭 I’m currently working on https://github.com/akthecoders/Programming 
 - 🌱 I’m currently learning Data Structures and Algorithms 
