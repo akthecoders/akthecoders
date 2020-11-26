@@ -1,4 +1,4 @@
-# Akshay Kumar ( Software Engineer ) ![Followers](https://img.shields.io/github/followers/akthecoders?style=social)
+# [Akshay Kumar ( Software Engineer )](https://github.com/akthecoders/resume/blob/main/Akshay%20Kumar%20Software%20Engineer.pdf) ![Followers](https://img.shields.io/github/followers/akthecoders?style=social)
 
 I am a **Software Engineer** and soon **going to be a YouTuber**. I have good industry experience in designing an **end-to-end system** and also develop it from scratch into a production-grade quality product. I work on **Back-end** as well as **Front-end**, **API Designing**, **code reviews**. I also keep a good eye on **Clean Coding**, the latest features whether used or not in any code, **SOLID** Principles. My hobbies are to solve **Data Structures** problems, learn about new and upcoming tech, experiment with different parts of Computer Science (IoT, Development, DevOps). I am also capable of writing **parallel programming** code.
 
@@ -16,6 +16,5 @@ I possess strong **OOPs** concepts, which made me strong in **SOLID** Principles
 - 🔭 I’m currently working on https://github.com/akthecoders/Programming 
 - 🌱 I’m currently learning Data Structures and Algorithms 
 - 📫 How to reach me: akshay@akthecoder.com / akthecoder@gmail.com
-
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/akthecoders)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/akthecoder/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.akthecoder.com/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](https://leetcode.com/akthecoder/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/akthecoder)
