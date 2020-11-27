@@ -1,4 +1,5 @@
-# [Akshay Kumar ( Software Engineer )](https://github.com/akthecoders/resume/blob/main/Akshay%20Kumar%20Software%20Engineer.pdf) ![Followers](https://img.shields.io/github/followers/akthecoders?style=social)
+# [Akshay Kumar ( Software Engineer )](https://github.com/akthecoders/resume/blob/main/Akshay%20Kumar%20Software%20Engineer.pdf) 
+![Followers](https://img.shields.io/github/followers/akthecoders?style=social) ![](https://komarev.com/ghpvc/?username=akthecoders)
 
 I am a **Software Engineer** and soon **going to be a YouTuber**. I have good industry experience in designing an **end-to-end system** and also develop it from scratch into a production-grade quality product. I work on **Back-end** as well as **Front-end**, **API Designing**, **code reviews**. I also keep a good eye on **Clean Coding**, the latest features whether used or not in any code, **SOLID** Principles. My hobbies are to solve **Data Structures** problems, learn about new and upcoming tech, experiment with different parts of Computer Science (IoT, Development, DevOps). I am also capable of writing **parallel programming** code.
 
